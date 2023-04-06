@@ -5,17 +5,17 @@ Example app for NodeJS Express and Typescript.
 # Install
 
 ```sh
-npm install
+pnpm install
 ```
 
 # Start
 
 ```sh
-npm start
+pnpm start
 ```
 
 # Build
 
 ```sh
-npm run build
+pnpm run build
 ```
