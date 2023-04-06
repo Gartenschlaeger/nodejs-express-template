@@ -19,3 +19,13 @@ pnpm start
 ```sh
 pnpm run build
 ```
+
+# Update packages
+
+```sh
+pnpm outdated
+```
+
+```sh
+pnpm up --latest
+```
