@@ -1,7 +1,7 @@
 {
-  "watch": "src",
-  "ignore": ["src/**/*.test.ts"],
+  "watch": "src/**",
   "ext": "ts",
-  "exec": "pnpm build && node ./dist/main.js",
+  "ignore": ["src/**/*.test.ts"],
+  "exec": "ts-node src/main.ts",
   "legacyWatch": true
 }
