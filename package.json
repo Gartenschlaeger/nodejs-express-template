@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "nodemon",
+    "start": "ts-node src/main.ts",
+    "watch": "nodemon",
     "build": "tsc"
   },
   "engines": {
