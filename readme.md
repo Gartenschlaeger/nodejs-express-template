@@ -27,7 +27,7 @@ Starts the app in watch mode to detect file changes.
 If a file change is detected, the app will automatically restart.
 
 ```sh
-pnpm start
+pnpm watch
 ```
 
 # Build
